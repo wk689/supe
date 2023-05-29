@@ -18,7 +18,7 @@
 	headers:{'User-Agent':'Dart/2.14 (dart:io)'},
 	timeout:5000,
 	class_name:'电影&连续剧&综艺&动漫&如意4k', // 分类筛选 /api.php/app/nav
-	class_url:'2&1&4',
+	class_url:'1&2&3&4&5',
 	play_parse:true,
 	lazy:'',
 	limit:6,
